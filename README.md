@@ -1,49 +1,61 @@
-# Life Stocks 2001 🚀📈
+# 🖥️ Life Stock 2001
 
-A retro-inspired career simulation browser game where you navigate professional life while managing finances, trading stocks, and building skills.
+Welcome to **Life Stock 2001**!  
+This project reimagines the world where classic 90s computers (think Windows 3.11!) meet ultra-fast modern AI, playful simulation, and a dose of retro-futurism.
 
-## 🎮 Game Features
-- Career progression system
-- Stock market trading with Y2K-era companies
-- Skill-building mini-games
-- Monthly life simulation
-- Retro 2001 aesthetic
+---
 
-## 🛠️ Tech Stack
-- HTML5/CSS3/JavaScript
-- Local Storage for saves
-- Responsive design
+## 🎮 Project Overview
 
-## 🚀 Getting Started
-1. Clone this repository
-2. Open `index.html` in a browser with Live Server
-3. Start your journey to financial freedom!
+Life Stock 2001 is a desktop simulation game written in Python.  
+- You play as an entry-level employee, using a vintage terminal to solve quirky challenges, develop skills, manage expenses, invest, and navigate the crazy world of office politics and emerging tech!  
+- The codebase is organized for easy learning: experiment in the Jupyter notebook, develop features in Python scripts, and get ready for an installable experience.
 
-## 📁 Project Structure
-life-stocks-2001/
-├── index.html # Main game page
-├── css/
-│ └── main.css # Game styling
-├── js/
-│ ├── main.js # Game initialization
-│ ├── gameState.js # Player data management
-│ ├── stockMarket.js # Stock trading logic
-│ └── miniGames.js # Mini-game implementations
-├── data/
-│ └── gameData.js # Game configuration
-├── assets/
-│ ├── sounds/ # Sound effects
-│ └── images/ # Game graphics
-└── docs/ # Documentation
+---
+
+## 📁 Folder Structure
+
+LICENSE # Project license
+README.md # This file!
+LifeStock2001.ipynb # Your personal notebook for experiments and prototypes
+main.py # Game entry point script
+engine.py # Game mechanics and logic
+gui.py # User interface code
+assets/ # Images and sounds for the game
+data/ # Save files and persistent data
+docs/ # Game design and documentation
 
 text
 
-## 📈 Development Progress
-- [x] Project setup and documentation
-- [ ] Basic game loop implementation
-- [ ] Stock market system
-- [ ] Mini-games development
-- [ ] UI polish and testing
+---
+
+## 💡 Features (planned)
+
+- Full retro terminal interface
+- Level-based challenges & skills
+- Dynamic economy: stocks, bills, assets, gadgets
+- NPCs & social choices (headhunters, promotions, start-up offers)
+- GUI for an authentic old-school experience
 
 ---
-*Built with ❤️ as a week learning project*
+
+## 🛠️ Getting Started
+
+1. **Clone the repository to your local machine**
+2. **Run and test features in `LifeStock2001.ipynb`**
+3. **Play the game via `main.py` (once main mechanics are added!)**
+4. **Requirements:**  
+   - Python 3.x  
+   - Jupyter Notebook extension (for learning/notebook only)
+   - Recommended: VS Code or Anaconda for editing
+
+---
+
+## 📧 Contact & Feedback
+
+Questions, bugs, feature requests or want to collaborate?  
+**Email:** [joaobordignon@gmail.com](mailto:joaobordignon@gmail.com)
+
+---
+
+> *This project is a learning journey—expect fun, weird bugs, and lots of nostalgia. Dive in and help shape the retro-future!*
